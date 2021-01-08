@@ -1,6 +1,7 @@
 h1 {
   text-shadow: 4px 4px 4px grey;
-  font-size: xx-large
+  font-size: xx-large;
+  text-align: center;
 }
 html {
   font-family: sans-serif;

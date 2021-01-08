@@ -1,9 +1,10 @@
 h1 {
-  text-shadow: 3px 3px 3px black;
+  text-shadow: 4px 4px 4px grey;
+  font-size: xx-large
 }
 html {
   font-family: sans-serif;
 }
 p {
-  font-size: Large;
+  font-size: large;
 }
